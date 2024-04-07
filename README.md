@@ -20,8 +20,6 @@
 
 - 🤝 I’m looking for help with **Server**
 
-- 👨‍💻 All of my projects are available at **[프로젝트 포트폴리오 주소]**
-
 - 📫 How to reach me **eunseo061410@gmail.com**
 
 
