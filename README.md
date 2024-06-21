@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm eunsxx 👋</h1>
-<h3 align="center">A passionate Computer Information Engineering from Kwangwoon University</h3>
+<h3 align="center">I want to grow as a developer for an open society.</h3>
 
 <p align="center">
   <a href="https://github.com/eunsxx">
