@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm eunsxx 👋</h1>
-<h3 align="center">I want to grow as a developer for an open society.</h3>
+<h3 align="center">I love new challenges, It's full of passion for solving it until the end.</h3>
 
 <p align="center">
   <a href="https://github.com/eunsxx">
@@ -11,8 +11,6 @@
 </p>
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Favorite Place**
 
 - 🌱 I’m currently learning **Spring**
 
